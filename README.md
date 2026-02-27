@@ -1,4 +1,11 @@
-## Hi there 👋
+Olá, eu sou a Fernanda! 👋
+​Sou apaixonada por tecnologia e pela forma como ela pode solucionar problemas reais e otimizar o dia a dia. Atualmente, estou explorando o ecossistema de tecnologia, desenvolvendo projetos que unem lógica, organização de informações e experiência do usuário.
+​O que estou fazendo no momento:
+​🚀 Desenvolvendo soluções visuais e interativas (como Dashboards de Dados).
+​📚 Estudando novas ferramentas e linguagens para descobrir onde posso gerar mais impacto.
+​💡 Interessada em inovação, design de soluções e tecnologia aplicada.
+​Minha meta é aprender constantemente e construir uma base sólida para atuar em projetos que desafiem minha criatividade e raciocínio técnico.
+​📫 Vamos nos conectar?
 
 <!--
 **fernandasalles-tech/fernandasalles-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
